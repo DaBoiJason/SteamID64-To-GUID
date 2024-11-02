@@ -49,6 +49,7 @@ This Python program is designed for server administrators who need to convert St
 
    ```text
    Enter the STEAM ID 64 to convert to GUID for ARMA and DAY-Z
+   76561198000000000
    The MD5 hash of the SteamID64 76561198000000000 for ARMA and DAY-Z is:
    GUI : edc48a4a45cdc3e925dc160020c42595
 
